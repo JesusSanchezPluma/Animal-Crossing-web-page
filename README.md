@@ -1,2 +1,5 @@
 # Animal-Crossing-web-page
-animal crossing web page 
+Creation of a landing page of Animal crossing using:
+-HTML
+-CSS
+-Bootstrap
